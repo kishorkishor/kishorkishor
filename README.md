@@ -1,1 +1,1 @@
-![](KISHOR.gif)
+![](kishor.gif)
